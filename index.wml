@@ -1,0 +1,9 @@
+<wml>
+  <card id="card1" title="Welcome">
+    <p>
+      <img src="welcome.gif" alt="Welcome" height="28" width="58" /><br/>
+      Not much to see here, captain.  Nobody uses WML anymore.<br/>
+      <a href="https://supercatfooz.github.io/">Back to HTML</a>
+    </p>
+  </card>
+</wml>
